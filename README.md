@@ -1,2 +1,2 @@
 # BirthdayOracle
-Birthday guessing machine
+Just another birthday guessing machine
